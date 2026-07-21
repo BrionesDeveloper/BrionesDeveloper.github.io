@@ -1,0 +1,14 @@
+GUÍA RÁPIDA
+
+1. Abre index.html para probar el sitio.
+2. Personaliza nombres y fecha en assets/js/config.js.
+3. Publica la carpeta completa en GitHub Pages o Netlify.
+4. En Google Sites usa:
+   Páginas -> Nueva página -> Inserción de página completa.
+5. Pega la URL pública del sitio.
+6. Para fotos personales, puedes:
+   - agregarlas a assets/img y editar historia.html, o
+   - usar el Carrusel de imágenes nativo de Google Sites.
+
+La carta completa ya está incluida en la página principal.
+La playlist también está integrada.
