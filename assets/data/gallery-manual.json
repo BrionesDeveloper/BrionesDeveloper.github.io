@@ -1,0 +1,46 @@
+[
+  {
+    "id": "raices-amor-94",
+    "src": "assets/img/gallery/raices-de-nuestro-amor.webp",
+    "thumbnail": "assets/img/gallery/raices-de-nuestro-amor.webp",
+    "date": "2026-05-21",
+    "dateLabel": "21 de mayo de 2026",
+    "title": "Nuestras raíces",
+    "description": "Un recuerdo de 94 meses: un amor que vive en las flores y también en las raíces que han aprendido a resistir.",
+    "type": "ia",
+    "category": "mesiversario"
+  },
+  {
+    "id": "meses-94",
+    "src": "assets/img/gallery/94-meses-recuerdo.webp",
+    "thumbnail": "assets/img/gallery/94-meses-recuerdo.webp",
+    "date": "2026-05-21",
+    "dateLabel": "21 de mayo de 2026",
+    "title": "94 meses juntos",
+    "description": "Flores, hamburguesas, papas moradas y una koalita feliz celebrando otro mes de nuestra historia.",
+    "type": "ia",
+    "category": "mesiversario"
+  },
+  {
+    "id": "meses-95",
+    "src": "assets/img/gallery/95-meses-recuerdo.webp",
+    "thumbnail": "assets/img/gallery/95-meses-recuerdo.webp",
+    "date": "2026-06-21",
+    "dateLabel": "21 de junio de 2026",
+    "title": "95 meses juntos",
+    "description": "Una celebración kawaii con el koala, el león, regalos, corazones y muchos momentos llenos de amor.",
+    "type": "ia",
+    "category": "mesiversario"
+  },
+  {
+    "id": "para-angie",
+    "src": "assets/img/gallery/para-angie.webp",
+    "thumbnail": "assets/img/gallery/para-angie.webp",
+    "date": null,
+    "dateLabel": "Un recuerdo especial",
+    "title": "Para Angie, mi maestra favorita",
+    "description": "Una imagen dedicada a tu vocación, tu ternura y esa forma tan bonita de enseñar y acompañar.",
+    "type": "ia",
+    "category": "detalle"
+  }
+]

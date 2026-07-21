@@ -1,0 +1,7 @@
+# No publicar originales en resolución completa
+photos_originales/*
+!photos_originales/README.txt
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
